@@ -77,7 +77,7 @@ export class App extends PIXI.Application{
 		});
 
 		// ADD A RESIZE LISTENER
-		window.addEventListener('resize', debounce( this.resize , 100 )  );
+		window.addEventListener('resize', debounce( (function(){ this.resize() }).bind(this) , 100 )  );
 
 		// START
 		this.menu.select('stacks');

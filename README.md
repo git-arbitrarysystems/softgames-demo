@@ -1,4 +1,6 @@
-Demo for SOFTGAMES.de\n
-Jasper Funk-Smit\n
+##Demo for SOFTGAMES.de
 
+#Jasper Funk-Smit
+
+#[demo](http://arbitrarysystems.com/softgames-demo/)
 
