@@ -132,7 +132,7 @@ export class Stacks extends DemoModule{
 
 			// UPDATE STACK ROOT POSITIONS
 			this.stacks[0].offset(-dimensions.width * 0.25, 0);
-			this.stacks[1].offset( dimensions.height * 0.25, 0)
+			this.stacks[1].offset( dimensions.width * 0.25, 0)
 		});
 
 
