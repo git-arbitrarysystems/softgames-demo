@@ -1,2 +1,4 @@
-Demo for SOFTGAMES.de
-Jasper Funk-Smit
+Demo for SOFTGAMES.de\n
+Jasper Funk-Smit\n
+
+
